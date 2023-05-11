@@ -7,4 +7,4 @@ The pictures are, for example, the original pictures from the first imitation-in
 References:
 Brass, M., Bekkering, H., Wohlschläger, A., & Prinz, W. (2000). Compatibility between observed and executed finger movements: comparing symbolic, spatial, and imitative cues. _Brain and cognition_, 44(2), 124-143.
 
-Archived XX May 2023
+#### Archived XX May 2023
