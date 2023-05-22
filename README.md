@@ -9,8 +9,8 @@ The pictures are, for example, the original pictures from the first imitation-in
 
 ##### References:
 
-    Brass, M., Bekkering, H., Wohlschläger, A., & Prinz, W. (2000). Compatibility between observed and executed finger movements: comparing symbolic, spatial, and imitative cues. _Brain and cognition_, 44(2), 124-143.
+Brass, M., Bekkering, H., Wohlschläger, A., & Prinz, W. (2000). Compatibility between observed and executed finger movements: comparing symbolic, spatial, and imitative cues. _Brain and cognition_, 44(2), 124-143.
 
-    Ma, D. S., Correll, J., & Wittenbrink, B. (2015). The Chicago face database: A free stimulus set of faces and norming data. _Behavior research methods_, 47, 1122-1135.
+Ma, D. S., Correll, J., & Wittenbrink, B. (2015). The Chicago face database: A free stimulus set of faces and norming data. _Behavior research methods_, 47, 1122-1135.
 
 #### Archived XX May 2023
