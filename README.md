@@ -13,4 +13,4 @@ Brass, M., Bekkering, H., Wohlschläger, A., & Prinz, W. (2000). Compatibility b
 
 Ma, D. S., Correll, J., & Wittenbrink, B. (2015). The Chicago face database: A free stimulus set of faces and norming data. _Behavior research methods_, 47, 1122-1135.
 
-#### Archived XX May 2023
+#### Archived 30 May 2023
